@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rushali Pawar.
+-  I’m interested in discussing Ideas and bring them live.
+- 🌱 I’m currently pursuing MBA in IT & systems.
+- 💞 I’m like building dashboards using power BI.
+- 📫 How to reach me Gmail : rushp1997@gmail.com or visit my [Portfolio](https://rushalipawar.github.io/)
